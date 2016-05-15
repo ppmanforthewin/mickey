@@ -1,20 +1,19 @@
 
 # Syntax highlighting
-markdown:            redcarpet
+markdown:            kramdown
 highlighter:         pygments
 
 # Permalinks
-permalink:           :title
-relative_permalinks: true
+permalink:           pretty
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+timezone:            New York
+locale:              en_us
+name:                Steve 
+title:               site Steve
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 http://ppmanforthewin.github.io
 rss:                 rss feed url
 baseurl:             '/mickey/'
 baseurl_posts_img:   '/mickey/assets/images/posts/'
